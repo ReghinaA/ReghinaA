@@ -1,4 +1,4 @@
-### Hi there 👋
+### please pardon our dust, this page is currently under constraction 👋
 
 <!--
 **ReghinaA/ReghinaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### My name is Reghina Allen.
+This is my Selenium + Java portfolio
+
+- [mockup e-Commerce site](#https://github.com/ReghinaA/java-practice-create-user)
+- [How To Use](#how-to-use)
