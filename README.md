@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 #### My name is Reghina Allen.
 This is my Selenium + Java portfolio
 
-- [mockup e-Commerce site](https://github.com/ReghinaA/java-practice-create-user)
+- [mockup e-Commerce site with Cucumber and Logger](https://github.com/ReghinaA/java-practice-create-user)
 - [How To Use](#how-to-use)
