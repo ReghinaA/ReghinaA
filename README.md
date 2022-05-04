@@ -1,5 +1,3 @@
-### please pardon our dust, this page is currently under constraction 👋
-
 <!--
 **ReghinaA/ReghinaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
