@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 This is my Selenium + Java portfolio
 
 - [Automated tests for mockup e-Commerce site. With Cucumber and Logger](https://github.com/ReghinaA/java-practice-create-user)
-- [Automated tests for mockup travel site. With Cucumber, Allure and working with Excel file demonstration (Reading Excel File with test data and writing the result to Excel File) 
+- [Automated tests for mockup travel site. With Cucumber, Allure and Excel (reading Excel file with test data and writing the result to Excel file) 
 ](https://github.com/ReghinaA/java-selenium-excel)
