@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### My name is Reghina Allen.
-This is my Selenium + Java portfolio
+This is my Selenium + Java portfolio:
 
 - [Automated tests for mockup e-Commerce site. With Cucumber and Logger](https://github.com/ReghinaA/java-practice-create-user)
 - [Automated tests for mockup travel site. With Cucumber, Allure and Excel (reading Excel file with test data and writing the result to Excel file) 
 ](https://github.com/ReghinaA/java-selenium-excel)
+
+Manual testing:
+- [Some bugs I found as a user/ customer](https://github.com/ReghinaA/bugs_I_found)
